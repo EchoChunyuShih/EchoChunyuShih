@@ -1,6 +1,6 @@
 
 
-<p align='center'><img src="https://media.giphy.com/media/C4wVg2QB09NU7G8u3N/giphy.gif" width="480" height="262" frameBorder="0" class="giphy-embed" allowFullScreen/></p>
+<p align='center'><img src="https://media.giphy.com/media/C4wVg2QB09NU7G8u3N/giphy.gif" width="600" frameBorder="0" class="giphy-embed" allowFullScreen/></p>
 
 <!--
 **EchoChunyuShih/EchoChunyuShih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
