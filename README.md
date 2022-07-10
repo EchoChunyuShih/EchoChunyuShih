@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 
  <a href="https://www.linkedin.com/in/echoshihtw/" target="_blank"><img src="https://img.shields.io/badge/-@echoshihtw-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
  <a href="https://medium.com/@echoshihtw" target="_blank"><img src="https://img.shields.io/badge/-@echoshihtw-black?style=for-the-badge&logo=Medium&logoColor=white" alt="Twitter"></a>
- <-- <a href="https://twitter.com/EchoCYShih" target="_blank"><img src="https://img.shields.io/badge/-@EchoCYShih-blue?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a> -->
+ <!-- <a href="https://twitter.com/EchoCYShih" target="_blank"><img src="https://img.shields.io/badge/-@EchoCYShih-blue?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a> --!>
 <a href="https://www.instagram.com/echoshih/" target="_blank"><img src="https://img.shields.io/badge/-@echoshih-C13584?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://codepen.io/echochunyushih" target="_blank"><img src="https://img.shields.io/badge/-CodePen-000000?&style=for-the-badge&logo=codePen&logoColor=white" alt="Instagram"></a>
 <a href="https://codesandbox.io/dashboard/all/?workspace=6bb766ae-d1cd-4d7a-a27a-816942d2eb9f" target="_blank"><img src="https://img.shields.io/badge/-CodeSandBox-000000?&style=for-the-badge&logo=codeSandBox&logoColor=white" alt="Instagram"></a>
