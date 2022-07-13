@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 
 ## 👩🏽‍💻 &nbsp;So...
 <br/>
-<!---
+<!-- 
  🌱 I’m currently learning ... ![Next.js](https://img.shields.io/badge/Next.js-000?&logo=nextdotjs) ![TSX](https://img.shields.io/badge/TypeScript-000?&logo=TypeScript&color=whitesmoke) 
 
  🤝  I'm open to collaborating on Front end projects.
---!>
- ⚡  I love to read.
+ -->
+ ⚡  I love to code.
 <br/>
 <br/>
 
